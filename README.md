@@ -1,4 +1,4 @@
-# 110511078-bdaf-lab-LAB_2
+# 110511078-bdaf-lab2
 
 ### How to use Vanity address generator?
 * First of all, lab2 is completed with Java Script, so put this code in the proper environment.
